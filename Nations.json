@@ -37,6 +37,6 @@
 		"outerColor": [250,0,0],
 		"innerColor": [0,250,0], 
 		"uniqueName": "The way of the Hack Lords",
-		"uniques": ["May buy [All] buildings for [100] [Culture] [in all cities]", "May buy [All] units for [100] [Culture] [in all cities]", "[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from every specialist [in all cities]", "[+1 Science, +1 Food, +1 Gold, +10 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]", "[4] additional attacks per turn", "[9] Range", "+[9] Movement <for all [All] units>", "[+99999]% Strength <vs [All] units>"]
+		"uniques": ["May buy [All] buildings for [100] [Culture] [in all cities]", "May buy [All] units for [100] [Culture] [in all cities]", "[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from every specialist [in all cities]", "[+1 Science, +1 Food, +1 Gold, +10 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]", "+[9] Movement <for all [All] units>", "[+99999]% Strength <vs [All] units>"]
 }
 ]
